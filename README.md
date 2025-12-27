@@ -1,13 +1,8 @@
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-<p align="center">
-  <img src="assets/banner.jpg" alt="Office Space"/>
+
+<P allign = "center">
+  Sagar Boorla
 </p>
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sagar+Boorla;Java+%26+Spring+Boot+Developer;Backend+%7C+Full+Stack+Engineer" />
-</p> -->
-
 ---
 
 ## 👨‍💻 About Me
