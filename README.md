@@ -1,33 +1,5 @@
-<p align="center">
-  <svg width="100%" height="120" viewBox="0 0 800 120">
-    <defs>
-      <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="0">
-        <stop offset="0%" stop-color="#00E6FF">
-          <animate attributeName="offset" values="0;1;0" dur="4s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#7F00FF">
-          <animate attributeName="offset" values="1;0;1" dur="4s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
 
-    <text x="50%" y="50%" text-anchor="middle"
-      font-size="36"
-      font-family="Orbitron, monospace"
-      fill="url(#grad)">
-      SAGAR BOORLA
-    </text>
-
-    <text x="50%" y="85%" text-anchor="middle"
-      font-size="18"
-      font-family="Fira Code, monospace"
-      fill="#9BE7FF">
-      JAVA & SPRING BOOT DEVELOPER
-    </text>
-  </svg>
-</p>
-
-
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 <p align="center">
   <img src="assets/banner.jpg" alt="Office Space"/>
 </p>
