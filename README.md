@@ -24,7 +24,8 @@ and **full-stack integrations**.
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,angular)
 
 ### 🗄️ Database
-![Database](https://skillicons.dev/icons?i=mysql,oracle)
+![Database](https://skillicons.dev/icons?i=mysql,mssql,oracle)
+
 
 ### 🛠️ Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode,postman)
