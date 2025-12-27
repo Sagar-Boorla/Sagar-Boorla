@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/beautiful-office-space-cartoon-style_23-2151043353.jpg" alt="Office Space"/>
+  <img src="g" alt="Office Space"/>
 </p>
 
 <p align="center">
