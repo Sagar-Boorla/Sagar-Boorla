@@ -104,9 +104,9 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
       <td>
         <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagar-Boorla&show_icons=true&theme=tokyonight&hide_border=true" />
       </td>
-      <td>
+      <!-- <td>
         <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/streak-stats/?user=Sagar-Boorla&theme=tokyonight&hide_border=true&v=123" />
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
