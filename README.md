@@ -101,8 +101,12 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagar-Boorla&show_icons=true&theme=tokyonight&hide_border=true" width="400px" /></td>
-      <td><img src="https://git-hub-streak-stats.vercel.app/?user=Sagar-Boorla&theme=tokyonight&hide_border=true" width="400px" /></td>
+      <td>
+        <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagar-Boorla&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img width="400" src="https://github-readme-streak-stats-re-sh.vercel.app/?user=Sagar-Boorla&theme=tokyonight&hide_border=true" />
+      </td>
     </tr>
   </table>
 </div>
