@@ -43,7 +43,7 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="50" title="Autodesk Maya" style="margin-right: 15px; filter: drop-shadow(0 0 5px #37A5CC);" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" title="Unreal Engine" style="filter: invert(1) drop-shadow(0 0 5px #FFFFFF);" />
+  <img src="[![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)" title="Unreal Engine" style="filter: invert(1) drop-shadow(0 0 5px #FFFFFF);" />
 </p>
 ### 🛠️ Development Tools
 <p align="left">
