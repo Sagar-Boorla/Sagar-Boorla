@@ -33,14 +33,18 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
 
 ### 🎬 Creative & VFX Suite (Ex-Mikros Technicolor)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45" title="Adobe After Effects" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" title="Adobe Photoshop" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" title="Blender" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/?size=100&id=QgiVYDIaXkWE&format=png&color=000000" height="45" title="Foundry Nuke" style="margin-right: 10px; filter: invert(34%) sepia(98%) hue-rotate(100deg) saturate(2345%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="45" title="Autodesk Maya" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" title="Unreal Engine" style="filter: brightness(0) invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50" title="Adobe After Effects" style="margin-right: 15px; filter: drop-shadow(0 0 5px #CF96FD);" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="50" title="Adobe Photoshop" style="margin-right: 15px; filter: drop-shadow(0 0 5px #31A8FF);" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" title="Blender" style="margin-right: 15px; filter: drop-shadow(0 0 5px #F5792A);" />
+  
+  <img src="https://raw.githubusercontent.com/otaduy/vfx-stack-icons/main/icons/nuke.svg" height="50" title="Foundry Nuke" style="margin-right: 15px; filter: drop-shadow(0 0 5px #F9B000);" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="50" title="Autodesk Maya" style="margin-right: 15px; filter: drop-shadow(0 0 5px #37A5CC);" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="50" title="Unreal Engine" style="filter: invert(1) drop-shadow(0 0 5px #FFFFFF);" />
 </p>
-
 ### 🛠️ Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,git,github,postman" />
