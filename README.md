@@ -1,72 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Sagar%20Boorla&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Sagar%20Boorla&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55&descSize=18"/>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
-I am a **Java Software Developer** specializing in **Spring Boot**, **RESTful APIs**, and  
-**secure backend systems**. I focus on writing **clean, maintainable code** and building  
-**real-world applications** with **scalable architectures**.
+I am a **Full Stack Java Developer** dedicated to building **scalable enterprise applications**. I specialize in **Spring Boot** microservices and **Angular** integrations, with a strong focus on **Security (JWT/OAuth2)** and **Database Management**. 
 
-I enjoy working on **enterprise-level backend systems**, **authentication workflows**,  
-and **full-stack integrations**.
+- 🔭 Currently building: Advanced Pharmacy & Healthcare Management Systems.
+- ⚡ Focus: Clean Code, SOLID Principles, and Optimized Database Design.
+- 🛡️ Specialty: Authentication workflows and Role-Based Access Control (RBAC).
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🧩 Backend
-![Backend](https://skillicons.dev/icons?i=java,spring,hibernate)
+### 🧩 Backend & Core
+![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,maven)
 
-### 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,angular)
+### 🎨 Frontend Development
+![Frontend](https://skillicons.dev/icons?i=angular,typescript,js,html,css,bootstrap,tailwind)
 
-### 🗄️ Database
-![Database](https://skillicons.dev/icons?i=mysql,oracle)
+### 🗄️ Database Management
+![Database](https://skillicons.dev/icons?i=mysql,oracle,sqlite) 
+*(Expertise in **MSSQL**, Oracle, and MySQL)*
 
-### 🛠️ Tools
-![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode,postman)
-
----
-
-## 🧠 Core Skills
-
-- Java (OOP, Collections, Multithreading)
-- Spring Boot & Spring Security
-- REST API Development
-- JWT Authentication & Role-Based Access
-- JPA / Hibernate
-- Microservices Basics
-- Angular Frontend Integration
-- Git & Version Control
+### 🛠️ Development Tools
+![Tools](https://skillicons.dev/icons?i=eclipse,idea,vscode,git,github,postman,docker)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Medical Store POS System
-**Tech Stack:** Angular • Spring Boot • MSSQL  
-
-- Role-based authentication (Admin / Pharmacist)
-- Invoice generation & order history
-- Secure REST APIs with JWT
-- Real-time POS workflow
-
-### 🔐 Authentication & Authorization System
-**Tech Stack:** Spring Boot • Spring Security • JWT  
-
-- Login using username or email
-- Role-based access control
-- Encrypted password storage (BCrypt)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Medical Store POS System</h3>
+      <p>A comprehensive Pharmacy management solution with a high-performance Point of Sale interface.</p>
+      <ul>
+        <li><b>Backend:</b> Spring Boot, Spring Security, MSSQL</li>
+        <li><b>Frontend:</b> Angular 18, RxJS</li>
+        <li><b>Key Feature:</b> Real-time stock validation & JWT Auth</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Secure Auth Provider</h3>
+      <p>A standalone authentication service designed for microservices architectures.</p>
+      <ul>
+        <li><b>Tech:</b> Spring Security, JWT, BCrypt</li>
+        <li><b>Database:</b> Oracle DB</li>
+        <li><b>Key Feature:</b> Multi-identifier login (Email/User)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Professional Expertise
+
+- **Java Ecosystem:** OOP, Multithreading, Streams API, Lambda Expressions.
+- **Spring Framework:** Spring Boot, Security, Data JPA, MVC, and AOP.
+- **Testing & Quality:** JUnit 5, Mockito, SonarQube (Static Analysis), Vitest.
+- **Database Design:** Normalization, Stored Procedures, Complex Joins in **MSSQL & Oracle**.
+- **DevOps Basics:** Git Version Control, Docker Containerization.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sagar-Boorla&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sagar-Boorla&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Boorla&theme=tokyonight" />
 </p>
 
@@ -79,12 +82,14 @@ and **full-stack integrations**.
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
