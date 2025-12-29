@@ -99,11 +99,10 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
 
 ## 📈 GitHub Performance
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagar-Boorla&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sagar-Boorla&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" />
   
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Sagar-Boorla&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Sagar-Boorla&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 <p align="center">
