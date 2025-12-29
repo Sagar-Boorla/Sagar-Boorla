@@ -28,7 +28,7 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
 
 ### 🌐 Frontend Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,bootstrap,tailwind,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,bootstrap,html,css,js" />
 </p>
 
 ### 🎬 Creative & VFX Suite (Ex-Mikros Technicolor)
@@ -36,7 +36,7 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45" title="Adobe After Effects" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="45" title="Adobe Photoshop" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" title="Blender" style="margin-right: 10px;" />
-  <img src="https://simpleicons.org/icons/foundry.svg" height="45" title="Foundry Nuke" style="margin-right: 10px; filter: invert(34%) sepia(98%) deg(100%) saturate(2345%);" />
+  <img src="https://img.icons8.com/?size=100&id=QgiVYDIaXkWE&format=png&color=000000" height="45" title="Foundry Nuke" style="margin-right: 10px; filter: invert(34%) sepia(98%) deg(100%) saturate(2345%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="45" title="Autodesk Maya" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" title="Unreal Engine" />
 </p>
