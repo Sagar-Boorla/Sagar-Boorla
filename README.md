@@ -15,32 +15,31 @@
 
 I am a **Full Stack Java Developer** with a unique professional foundation as a **Compositing Artist** at **Mikros Animation (Technicolor)**. My background in high-end VFX for episodic TV and feature films has instilled a "pixel-perfect" attention to detail that I now apply to **Spring Boot** backend services and **Angular** frontend integrations.
 
-- 🔭 **Currently:** Architecting an Enterprise Pharmacy POS & Inventory System.
-- 🎨 **Creative Edge:** Expert in Nuke, Maya, and Unreal Engine lighting/compositing.
-- ⚡ **Technical Focus:** Clean Architecture, JWT Security, and Database Optimization.
-
 ---
 
 ## ⚙️ Technical Arsenal
 
 ### 🧩 Backend & Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,docker" />
-</p>
-
-### 🗄️ Databases (Enterprise Ready)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,docker,mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" width="48" title="Oracle DB" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48" />
 </p>
 
-### 🎨 Frontend & Creative Design
+### 🌐 Frontend Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,bootstrap,tailwind,ae,ps,nuke,maya,unreal" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,bootstrap,tailwind,html,css,js" />
 </p>
 
-### 🛠️ Development Environment
+### 🎬 Creative & VFX Suite (Ex-Mikros Technicolor)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ae,ps,blender" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nuke-1.svg" height="48" title="Foundry Nuke" style="margin-right: 10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-maya-1.svg" height="48" title="Autodesk Maya" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=unreal" />
+</p>
+
+### 🛠️ Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode,git,github,postman" />
 </p>
@@ -48,8 +47,6 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
 ---
 
 ## 🏗️ Featured Engineering Projects
-
-
 
 <table border="0">
   <tr>
@@ -87,13 +84,13 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
 | **Engineering** | **Creative & VFX** | **Database & Ops** |
 | :--- | :--- | :--- |
 | Spring Boot & Microservices | Nuke (3D Compositing) | MSSQL & Oracle Tuning |
-| Angular & RxJS State Mgmt | Maya Rendering (Arnold/V-Ray) | Git & GitHub Actions |
-| JWT & Spring Security | Unreal Engine Level Design | Docker & Maven Lifecycle |
-| JUnit 5 & Mockito Testing | Motion Graphics (After Effects) | REST API System Design |
+| Angular & RxJS State Mgmt | Maya Rendering (Arnold) | Git & GitHub Actions |
+| JWT & Spring Security | Unreal Engine 5 Design | Docker & Maven Lifecycle |
+| JUnit 5 & Mockito Testing | After Effects & Blender | REST API System Design |
 
 ---
 
-## 📈 Performance Metrics
+## 📈 GitHub Performance
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sagar-Boorla&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Boorla&theme=tokyonight&hide_border=true" />
