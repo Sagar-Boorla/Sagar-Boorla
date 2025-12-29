@@ -33,10 +33,12 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
 
 ### 🎬 Creative & VFX Suite (Ex-Mikros Technicolor)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ae,ps,blender" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nuke-1.svg" height="48" title="Foundry Nuke" style="margin-right: 10px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-maya-1.svg" height="48" title="Autodesk Maya" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=unreal" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" height="45" title="Adobe After Effects" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" height="45" title="Adobe Photoshop" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" height="45" title="Blender" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Nuke_Software_Logo.png" height="45" title="Foundry Nuke" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" height="45" title="Autodesk Maya" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" height="45" title="Unreal Engine" />
 </p>
 
 ### 🛠️ Development Tools
