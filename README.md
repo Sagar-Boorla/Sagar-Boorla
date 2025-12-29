@@ -39,7 +39,7 @@ I am a **Full Stack Java Developer** with a unique professional foundation as a 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" title="Blender" style="margin-right: 15px; filter: drop-shadow(0 0 5px #F5792A);" />
   
-  <img src="https://raw.githubusercontent.com/otaduy/vfx-stack-icons/main/icons/nuke.svg" height="50" title="Foundry Nuke" style="margin-right: 15px; filter: drop-shadow(0 0 5px #F9B000);" />
+  <img src="https://img.icons8.com/?size=100&id=QgiVYDIaXkWE&format=png&color=000000" height="50" title="Foundry Nuke" style="margin-right: 15px; filter: drop-shadow(0 0 5px #F9B000);" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="50" title="Autodesk Maya" style="margin-right: 15px; filter: drop-shadow(0 0 5px #37A5CC);" />
   
